@@ -37,7 +37,7 @@ The perturbed benchmark will have a similar or lower difficulty than the origina
 5. Optionally, one can use a strong reasoning model, such as *o3* to bypass manual filtering. Refer to ``prompts.py``.
 
 ## 💾 Perturbed Benchmarks
-We release the ``.tsv`` files that can be used to evaluate models on perturbed RealWorldQA and MMStar in ``./tsv``. The perturbed images can be downloaded from here: 
+We release the ``.tsv`` files that can be used to evaluate models on perturbed RealWorldQA and MMStar in ``./tsv``. The perturbed images can be downloaded from release v1.0.0.
 
 ## 📌 Citation
 ```
